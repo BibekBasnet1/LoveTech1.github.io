@@ -298,10 +298,13 @@ body {
     padding: 10px 20px 10px 20px;
     border-radius: 5px;
     outline: none;
-    color: white;
+    color: black;
     background: var(--main-color);
 }
-
+.CV a{
+    color: whitesmoke;
+    text-decoration: none;
+}
 /*  cv button hover effects */
 .CV:hover {
     background-color: white;
